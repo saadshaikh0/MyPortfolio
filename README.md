@@ -72,7 +72,6 @@ To run this portfolio website locally, follow these steps:
 - **Home Page:** The landing page welcomes visitors and provides a brief introduction.
 - **Experience:** This page contains details about my professional experience and work history.
 - **Skills:** Here, you can find a list of skills and technologies I have expertise in.
-- **Projects:** A showcase of my projects with descriptions and links to their respective repositories or live demos.
 - **Contact:** This page includes my contact information and a contact form to get in touch with me.
 
 ## Project Structure
@@ -96,7 +95,6 @@ Here are some of the key skills and technologies showcased on the website:
 - Tailwind CSS
 - Git
 - Responsive Web Design
-- ... (Add more relevant skills)
 
 ## Contact
 
