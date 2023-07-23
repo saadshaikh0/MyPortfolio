@@ -102,8 +102,7 @@ Here are some of the key skills and technologies showcased on the website:
 
 Feel free to get in touch with me via the following methods:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile-url/)
-- GitHub: [Your GitHub Profile URL](https://github.com/your-username)
+- Email: iamsaadtshaikh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saad-shaikh-8a40981b6/
 
 Thank you for visiting my portfolio website! I hope you find it informative and visually appealing. If you have any questions or inquiries, please don't hesitate to reach out to me.
