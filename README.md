@@ -72,7 +72,6 @@ To run this portfolio website locally, follow these steps:
 - **Home Page:** The landing page welcomes visitors and provides a brief introduction.
 - **Experience:** This page contains details about my professional experience and work history.
 - **Skills:** Here, you can find a list of skills and technologies I have expertise in.
-- **Projects:** A showcase of my projects with descriptions and links to their respective repositories or live demos.
 - **Contact:** This page includes my contact information and a contact form to get in touch with me.
 
 ## Project Structure
@@ -96,14 +95,12 @@ Here are some of the key skills and technologies showcased on the website:
 - Tailwind CSS
 - Git
 - Responsive Web Design
-- ... (Add more relevant skills)
 
 ## Contact
 
 Feel free to get in touch with me via the following methods:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile-url/)
-- GitHub: [Your GitHub Profile URL](https://github.com/your-username)
+- Email: iamsaadtshaikh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saad-shaikh-8a40981b6/
 
 Thank you for visiting my portfolio website! I hope you find it informative and visually appealing. If you have any questions or inquiries, please don't hesitate to reach out to me.
