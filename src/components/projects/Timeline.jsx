@@ -33,7 +33,7 @@ export function Timeline() {
           <img src={clarista_logo} className="w-16 h-10" />
         </div>
         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-          May 2022 - April 2023
+          May 2022 - Current
         </time>
 
         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
